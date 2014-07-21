@@ -1,0 +1,11 @@
+{
+  "name": "wp-theme",
+  "version": "1.0.0",
+  "dependencies": {
+    "responsive-tables": "latest",
+    "slick-carousel": "latest",
+    "flaunt-js": "https://github.com/toddmotto/flaunt-js.git",
+    "font-awesome": "latest"
+  },
+  "private": true
+}

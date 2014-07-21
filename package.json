@@ -1,0 +1,16 @@
+{
+  "name": "wp-theme",
+  "version": "0.1.0",
+  "description": "package file for wp-theme",
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-bowercopy": "^1.1.0",
+    "grunt-contrib-concat": "latest",
+    "grunt-contrib-imagemin": "^0.7.1",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-sass": "^0.7.3",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-watch": "latest"
+  },
+  "author": "Wesley Farrell"
+}
